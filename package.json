@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shikhar99-lab.github.io/TodoApp-React",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
