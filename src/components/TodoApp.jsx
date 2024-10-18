@@ -50,7 +50,7 @@ function TodoApp() {
   };
 
   return (
-    <div className="container mx-auto md:my-5 rounded-md-xl p-5 bg-blue-200 md:min-h-[90vh] md:w-4/5 w-full">
+    <div className="container mx-auto md:my-5 rounded-md shadow-2xl p-5 bg-blue-200 md:min-h-[90vh] md:w-2/5 w-full">
       <div className="flex justify-center bg-blue-900 text-white py-2 rounded-md">
         <div className="logo">
           <span className="font-bold text-xl mx-9">Todo App</span>
