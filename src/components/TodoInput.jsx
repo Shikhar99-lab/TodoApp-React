@@ -1,4 +1,4 @@
-function TodoInput({ todo, setTodo, handleAdd }) {
+function TodoInput({ todo, setTodo, handleAdd }) { 
     const handleChange = (e) => {
       setTodo(e.target.value);
     };
